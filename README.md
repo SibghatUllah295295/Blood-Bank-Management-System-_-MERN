@@ -48,8 +48,3 @@ The goal is to ensure quick response times, reduce manual errors, and improve op
 * Mongoose
 * JWT Authentication
 * bcrypt for password hashing
-
-
-**Inventory Overview**
-
-<img width="1920" height="1121" alt="image" src="https://github.com/user-attachments/assets/65110412-2e41-4c0f-824d-7ee9ebed91bb" />
